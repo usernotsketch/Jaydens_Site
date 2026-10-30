@@ -1,0 +1,42 @@
+{
+  "title": "Courses",
+  "eyebrow": "Section 3",
+  "items": [
+    {
+      "title": "Reiki Level 1",
+      "level": "Foundation",
+      "description": "An introductory experience for developing gentle awareness, practice foundations, and the beginning of your Reiki journey.",
+      "date": "Date to be announced",
+      "format": "Format to be confirmed",
+      "status": "Details pending",
+      "link": "#"
+    },
+    {
+      "title": "Reiki Level 2",
+      "level": "Practitioner",
+      "description": "A deeper exploration of the Reiki system, practical energy work, and continuing personal healing practice.",
+      "date": "Date to be announced",
+      "format": "Format to be confirmed",
+      "status": "Details pending",
+      "link": "#"
+    },
+    {
+      "title": "Reiki Level 3",
+      "level": "Advanced",
+      "description": "A progression for students seeking a more expanded relationship with Reiki practice and energetic development.",
+      "date": "Date to be announced",
+      "format": "Format to be confirmed",
+      "status": "Details pending",
+      "link": "#"
+    },
+    {
+      "title": "Reiki Level 4",
+      "level": "Mastery",
+      "description": "A higher-level course path with a focus on deepening attunement work and personal energetic understanding.",
+      "date": "Date to be announced",
+      "format": "Format to be confirmed",
+      "status": "Details pending",
+      "link": "#"
+    }
+  ]
+}

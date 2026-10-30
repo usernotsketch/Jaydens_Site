@@ -1,0 +1,19 @@
+{
+  "title": "Energy Healing Sessions",
+  "eyebrow": "Section 2",
+  "prompt": "What am I offering?",
+  "serviceName": "One-to-one energy session",
+  "duration": "1 hour",
+  "location": "Online video call via Zoom",
+  "option": "Energy Healing",
+  "pricing": ["44", "55", "77"],
+  "currency": "currency to be confirmed",
+  "description": "A focused, supportive session designed around energy work, grounding, and gentle healing support. The final service wording, pricing currency, and provider flow are still being confirmed with Jayden.",
+  "expectations": [
+    "A calm, space-holding experience for your energy and reflection.",
+    "A clear booking flow through the approved provider when live setup is ready.",
+    "A confirmation and Zoom details process through the configured provider workflow."
+  ],
+  "note": "The currency for the sliding-scale amounts and the final booking setup remain open decisions until Jayden confirms them.",
+  "bookingLink": "#connect"
+}

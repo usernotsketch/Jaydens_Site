@@ -1,0 +1,39 @@
+# Pages CMS configuration for JAYDEN SIRIUS Healer
+version: 1
+content:
+  - name: site
+    label: Site Settings
+    files:
+      - path: content/site.json
+        label: Site Settings
+        format: json
+  - name: about
+    label: About
+    files:
+      - path: content/about.json
+        label: About
+        format: json
+  - name: sessions
+    label: Sessions
+    files:
+      - path: content/sessions.json
+        label: Sessions
+        format: json
+  - name: courses
+    label: Courses
+    files:
+      - path: content/courses.json
+        label: Courses
+        format: json
+  - name: events
+    label: Events
+    files:
+      - path: content/events.json
+        label: Events
+        format: json
+  - name: connect
+    label: Connect
+    files:
+      - path: content/connect.json
+        label: Connect
+        format: json

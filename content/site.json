@@ -1,0 +1,30 @@
+{
+  "siteSettings": {
+    "title": "JAYDEN SIRIUS Healer",
+    "brandSubtitle": "Healer",
+    "bookButton": "Book a session",
+    "navigation": [
+      { "label": "About", "href": "#about" },
+      { "label": "Sessions", "href": "#sessions" },
+      { "label": "Courses", "href": "#courses" },
+      { "label": "Events", "href": "#events" },
+      { "label": "Connect", "href": "#connect" }
+    ],
+    "footerText": "Website content is being refined with Jayden’s review.",
+    "footerLinks": [
+      { "label": "About", "href": "#about" },
+      { "label": "Sessions", "href": "#sessions" },
+      { "label": "Courses", "href": "#courses" },
+      { "label": "Events", "href": "#events" }
+    ]
+  },
+  "hero": {
+    "eyebrow": "Energy healing • remote Reiki • multidimensional care",
+    "title": "JAYDEN SIRIUS",
+    "lead": "Healing work rooted in compassion, spiritual support, and deep personal connection.",
+    "actions": [
+      { "label": "Book a session", "href": "#sessions", "variant": "primary" },
+      { "label": "Learn more", "href": "#about", "variant": "secondary" }
+    ]
+  }
+}

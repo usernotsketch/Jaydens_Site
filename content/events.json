@@ -1,0 +1,20 @@
+{
+  "title": "Events",
+  "eyebrow": "Section 4",
+  "items": [
+    {
+      "title": "Event journal entry",
+      "date": "Date to be announced",
+      "location": "Location to be confirmed",
+      "summary": "A visual journal placeholder for upcoming gatherings, workshops, and reflections from community events.",
+      "reflection": "This section is designed to document events with personal reflection and photo-led storytelling. It will be populated once Jayden approves the journal entries and images."
+    },
+    {
+      "title": "Community gathering",
+      "date": "Date to be announced",
+      "location": "Location to be confirmed",
+      "summary": "A placeholder for future events, healing circles, or shared gatherings and their reflections.",
+      "reflection": "The editorial approach remains intentionally flexible until the event archive and final content structure are confirmed."
+    }
+  ]
+}
